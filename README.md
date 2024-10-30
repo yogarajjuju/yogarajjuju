@@ -3,23 +3,24 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Josefin+Sans&weight=600&size=24&pause=1000&color=DC143C&vCenter=true&width=650&lines=AI+%26+Data+Science:+Just+Playing;Self+Taught+Full+Stack+Developer;CyberSecurity:+I+Keep+It+Safe;Researcher:+Always+Asking+Why;Creativity:+My+Secret+Weapon;Rajini+Fan:+Living+in+Style!
 )
 
-```typescript
+## Hi, I'm Subash Kumar K 👋
 
-const myDetails = {
-  name: "Subash Kumar K",
-  title: "Self-Taught Software Engineer & CyberSecurity Enthusiast",
-  university: "VSB College of Engineering Technical Campus (Anna University Affiliate)",
-  degree: "BTech in Artificial Intelligence and Data Science",
-  editor: "Visual Studio Code",
-  platforms: "Web, Mobile, CLI",
-  top_tech_stacks: "Python, JavaScript, React, MongoDB, Django, HTML, CSS",
-  learning_goals: "Java",
-  skills: "Full Stack Development, Research & Development, CyberSecurity",
-  languages: "Tamil, English",
-  hobbies: "Programming, Psychology Books, Exercise"
-};
+<svg viewBox="0 0 800 60" xmlns="http://www.w3.org/2000/svg">
+  <text x="0" y="45" font-size="24" fill="white">
+    <animate attributeName="x" from="0" to="800" dur="5s" repeatCount="indefinite" />
+    Self-Taught Software Engineer & Cybersecurity Enthusiast
+  </text>
+</svg>
 
-```
+- 🏫 **University**: VSB College of Engineering Technical Campus (Anna University Affiliate)
+- 🎓 **Degree**: BTech in Artificial Intelligence and Data Science
+- 📝 **Editor**: Visual Studio Code
+- 🌐 **Platforms**: Web, Mobile, CLI
+- ⚙️ **Top Tech Stacks**: Python, JavaScript, React, MongoDB, Django, HTML, CSS
+- 📚 **Learning Goals**: Java
+- 🛠️ **Skills**: Full Stack Development, Research & Development, Cybersecurity
+- 🌏 **Languages**: Tamil, English
+- 💻 **Hobbies**: Programming, Psychology Books, Exercise
 
 ## 📊 GitHub Stats
 
