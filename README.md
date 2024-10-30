@@ -1,5 +1,4 @@
-[View Intro GIF](https://raw.githubusercontent.com/SubashSK777/SubashSK777/main/Assets/Intro.gif)
-  
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Josefin+Sans&weight=600&size=24&pause=1000&color=DC143C&vCenter=true&width=650&lines=AI+%26+Data+Science:+Just+Playing;Self+Taught+Full+Stack+Developer;CyberSecurity:+I+Keep+It+Safe;Researcher:+Always+Asking+Why;Creativity:+My+Secret+Weapon;Rajini+Fan:+Living+in+Style!
 )
 
