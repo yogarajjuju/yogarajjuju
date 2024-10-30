@@ -81,5 +81,5 @@
 
 <!-- Status -->
 ![Profile Views](https://komarev.com/ghpvc/?username=SubashSK777)
-![GitHub last commit](https://img.shields.io/github/last-commit/SubashSK777/SubashSK777)
+![GitHub Last commit](https://img.shields.io/github/last-commit/SubashSK777/SubashSK777)
 
