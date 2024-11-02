@@ -1,7 +1,9 @@
 ![Subash's Banner](https://github.com/SubashSK777/SubashSK777/blob/main/Assets/Gitanner.png)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Josefin+Sans&weight=600&size=24&pause=1000&color=DC143C&vCenter=true&width=650&lines=AI+%26+Data+Science:+Just+Playing;Self+Taught+Full+Stack+Developer;Researcher:+Always+Asking+Why;Creativity:+My+Secret+Weapon;Rajini+Fan:+Living+in+Style!
-)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Josefin+Sans&weight=600&size=36&pause=1000&color=DC143C&vCenter=true&width=650&lines=AI+%26+Data+Science:+Just+Playing;Self+Taught+Full+Stack+Developer;Researcher:+Always+Asking+Why;Creativity:+My+Secret+Weapon;Rajini+Fan:+Living+in+Style!" alt="Typing SVG"/>
+</p>
+
 
 ## Hi, I'm Subash Kumar K 👋
 
