@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://your-link-here">
-    <img src="https://img.shields.io/badge/Self--Taught_Software_Engineer_%26_Cybersecurity_Enthusiast-white?style=for-the-badge&logoColor=crimson" alt="Self-Taught Software Engineer & Cybersecurity Enthusiast"/>
+    <img src="https://img.shields.io/badge/Self--Taught_Software_Engineer_%26_Cybersecurity_Enthusiast-crimson?style=for-the-badge&logoColor=white" alt="Self-Taught Software Engineer & Cybersecurity Enthusiast"/>
   </a>
 </p>
 
