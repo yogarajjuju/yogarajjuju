@@ -5,19 +5,14 @@
 
 ## Hi, I'm Subash Kumar K 👋
 
-<svg viewBox="0 0 800 60" xmlns="http://www.w3.org/2000/svg">
-  <text x="0" y="45" font-size="24" fill="white">
-    <animate attributeName="x" from="0" to="800" dur="5s" repeatCount="indefinite" />
-    Self-Taught Software Engineer & Cybersecurity Enthusiast
-  </text>
-</svg>
+<p align="center" style="font-size: 36px; color: crimson;">
+  Self-Taught Software Engineer & Cybersecurity Enthusiast
+</p>
 
 - 🏫 **University**: VSB College of Engineering Technical Campus (Anna University Affiliate)
-- 🎓 **Degree**: BTech in Artificial Intelligence and Data Science
-- 📝 **Editor**: Visual Studio Code
+- 🎓 **Degree**: B.Tech in Artificial Intelligence and Data Science
 - 🌐 **Platforms**: Web, Mobile, CLI
-- ⚙️ **Top Tech Stacks**: Python, JavaScript, React, MongoDB, Django, HTML, CSS
-- 📚 **Learning Goals**: Java
+- ⚙️ **Top Tech Stacks**: Java, Python, Javascript, MongoDB, Django
 - 🛠️ **Skills**: Full Stack Development, Research & Development, Cybersecurity
 - 🌏 **Languages**: Tamil, English
 - 💻 **Hobbies**: Programming, Psychology Books, Exercise
@@ -60,7 +55,7 @@
 ![Nmap](https://img.shields.io/badge/Nmap-00BFFF?style=for-the-badge&logo=nmap&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) 
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
-![PNPM](https://img.shields.io/badge/pnpm-yellow?style=for-the-badge&logo=pnpm&logoColor=white) 
+![Figma](https://img.shields.io/badge/Figma-%2300C4CC.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
