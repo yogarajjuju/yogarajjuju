@@ -6,9 +6,7 @@
 ## Hi, I'm Subash Kumar K 👋
 
 <p align="center">
-  <a href="https://your-link-here">
-    <img src="https://img.shields.io/badge/Self--Taught_Software_Engineer_%26_Cybersecurity_Enthusiast-crimson?style=for-the-badge&logoColor=white" alt="Self-Taught Software Engineer & Cybersecurity Enthusiast"/>
-  </a>
+    <img src="https://img.shields.io/badge/Self--Taught_Software_Engineer_%26_Cybersecurity_Enthusiast-crimson?style=for-the-badge&logoColor=white" alt="Self-Taught Software Engineer & Cybersecurity Enthusiast" width="300" height="75"/>
 </p>
 
 
