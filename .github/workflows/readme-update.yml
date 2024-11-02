@@ -1,0 +1,29 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"  # Runs every 30 minutes
+  workflow_dispatch:  # Allows manual triggering if needed
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Update README
+        run: |
+          # Generate the timestamp for cache-busting
+          TIMESTAMP=$(date +"%Y%m%d%H%M%S")
+          
+          # Replace timestamp in README.md
+          sed -i "s/v=[0-9]*/v=$TIMESTAMP/g" README.md
+
+      - name: Commit Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update README cache-busting timestamp"
+          git push
