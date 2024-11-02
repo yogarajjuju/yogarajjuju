@@ -37,6 +37,8 @@
 <!-- Contribution Graph -->
 ![Subash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SubashSK777&theme=github-compact&v=1)
 
+![snake gif](https://github.com/SubashSK777/SubashSK777/blob/output/github-snake-dark.svg)
+
 
 <!-- Tech Stack -->
 ## 💻 Tech Stack
