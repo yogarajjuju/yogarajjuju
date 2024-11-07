@@ -1,8 +1,9 @@
 ![Yogaraj's Banner](https://github.com/SubashSK777/SubashSK777/blob/main/Assets/Gitanner.png)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Josefin+Sans&weight=700&size=46&pause=1000&color=DC143C&vCenter=true&width=800&lines=AI+%26+Data+Science:+Just+Playing;Self+Taught+Cybersecurity+Developer;Researcher:+Always+Asking+Why;Creativity:+My+Secret+Weapon;Ajith+Kumar+Fan:+Living+in+Style!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Josefin+Sans&weight=700&size=46&pause=1000&color=DC143C&vCenter=true&width=800&lines=AI+%26+Data+Science:+Just+for+Fun;Self-Taught+Cybersecurity+Ninja;Researcher:+Always+Asking+Why;Creativity:+My+Secret+Weapon;Inspired+by:+Hacker+Loi,+David+Bombal,+Network+Chuck—Hacking+Life+and+the+Network!" alt="Typing SVG"/>
 </p>
+
 
 
 
