@@ -31,8 +31,6 @@
 <!-- Contribution Graph -->
 ![Yogaraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yogarajjuju&theme=github-compact&v=20241107101720)
 
-![snake gif](https://github.com/yogarajjuju/yogarajjuju/blob/output/github-snake-dark.svg)
-
 <!-- Tech Stack -->
 ## 💻 Tech Stack
 
