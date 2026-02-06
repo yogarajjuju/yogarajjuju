@@ -13,7 +13,7 @@
 - 🏫 **University**: VSB College of Engineering Technical Campus (Anna University Affiliate)
 - 🎓 **Degree**: B.Tech in Artificial Intelligence and Data Science
 - 🌐 **Platforms**: Web, Mobile, CLI
-- ⚙️ **Top Tech Stacks**: Java, C++, YAML,Nix, Docker.
+- ⚙️ **Top Tech Stacks**: Java, C++, YAML ,Nix, Docker.
 - 🛠️ **Skills**: Full Stack Development, Research & Development, Cybersecurity, Devops
 - 🌏 **Languages**: Tamil, English, Hindi
 - 💻 **Hobbies**: Programming, Manga Books, Watching Anime!
