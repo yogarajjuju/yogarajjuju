@@ -1,4 +1,4 @@
-![Yogaraj's Banner]
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Josefin+Sans&weight=700&size=46&pause=1000&color=1E90FF&vCenter=true&width=800&lines=AI+%26+Data+Science:+Just+for+Fun;Self-Taught+Cybersecurity+Ninja;Researcher:+Always+Asking+Why;Exploitation:+My+Secret+Weapon;Life+and+the+Network!" alt="Typing SVG"/>
@@ -13,8 +13,8 @@
 - 🏫 **University**: VSB College of Engineering Technical Campus (Anna University Affiliate)
 - 🎓 **Degree**: B.Tech in Artificial Intelligence and Data Science
 - 🌐 **Platforms**: Web, Mobile, CLI
-- ⚙️ **Top Tech Stacks**: Java, Python, Bash, Scripting, Phishing
-- 🛠️ **Skills**: Full Stack Development, Research & Development, Cybersecurity
+- ⚙️ **Top Tech Stacks**: Java, C++, YAML,Nix, Docker.
+- 🛠️ **Skills**: Full Stack Development, Research & Development, Cybersecurity, Devops
 - 🌏 **Languages**: Tamil, English, Hindi
 - 💻 **Hobbies**: Programming, Manga Books, Watching Anime!
 
